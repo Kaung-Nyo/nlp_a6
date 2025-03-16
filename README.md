@@ -63,7 +63,7 @@ The web application is built using Dash and is containerized using Docker. The a
    ```
 
 ### Chat View
-<img src="./figures/a6_web.png" width="600" length="400"/>
+<img src="./figures/web_a6.png" width="600" length="400"/>
 
 
 ## Discussion
