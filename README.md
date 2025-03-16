@@ -5,6 +5,7 @@
 This repository contains an NLP project that utilizes various libraries and frameworks to build a conversational AI model. The project is designed to demonstrate the integration of language models with vector databases for efficient retrieval and interaction.
 
 ## Directory Structure
+```
 nlp_a6/
 ├── app/
 │    ├── main.py # Main application file to run the model    
@@ -15,6 +16,7 @@ nlp_a6/
 ├── figures # Directory for figures and visualizations 
 ├── rag-langchain.ipynb # Jupyter Notebook for experimentation 
 └── vector-store # Directory for vector embeddings  
+```
 
 ## Dependencies
 - `torch`: For building and training the model.
@@ -61,7 +63,7 @@ The web application is built using Dash and is containerized using Docker. The a
    ```
 
 ### Chat View
-<img src="./figure/a6_web.png" width="600" length="400"/>
+<img src="./figures/a6_web.png" width="600" length="400"/>
 
 
 ## Discussion
